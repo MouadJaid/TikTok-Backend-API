@@ -3,15 +3,10 @@
 
 ### For this Tiktok Clone API to work you'll need the Frontend:
 
-Tiktok Clone: https://github.com/John-Weeks-Dev/tiktok-clone
+Tiktok Clone: https://github.com/MouadJaid/TikTok-Front
 
 ## App Setup
 
-```
-git clone https://github.com/John-Weeks-Dev/tiktok-clone-api.git
-```
-
-Then
 ```
 composer install 
 
